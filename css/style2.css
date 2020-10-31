@@ -40,8 +40,8 @@ i {
 	/*AK   background-repeat: no-repeat, repeat; */
 	/*background-attachment: fixed;*/
 	/*AK   color: #FFF; */
-	/* max-height: 500px;
-	height: 100%; */
+	max-height: 500px;
+	height: 100%;
 }
 
 .header .port {
@@ -120,16 +120,16 @@ i {
 	position: relative;
 }
 
-.landingPage .header div {
+.landingPage div {
 	position: absolute;
 	left: 10%;
 	width: 80%;
 	height: auto;
 	padding: 0;
 }
+
 #landingPage-js {
-	background-image: linear-gradient(to bottom, #A1FFCE, #FAFFD1);
-	/* background-image: linear-gradient(to bottom, #2980B9, #6DD5FA, #FFFFFF); */
+	background-image: linear-gradient(to bottom, #2980B9, #6DD5FA, #FFFFFF);
 	background-repeat: repeat;
 	background-size: cover;
 	background-position: 50% 50%;
