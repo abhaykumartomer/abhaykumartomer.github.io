@@ -60,7 +60,7 @@ i {
 	border-radius: 4px;
 	cursor: pointer;
 	font-size: 44px;
-	margin: 0px 20px;
+	margin: 0px 1px;
 	padding: 20px 30px;
 	color: #000;
 	transition: all 400ms ease-in-out;
@@ -134,7 +134,18 @@ i {
 	background-size: cover;
 	background-position: 50% 50%;
 }
-
+/*  .ic {
+    background: url('../img/profile.jpg');
+}
+ */
+/* .telegram {
+    background: url('../img/profile.jpg');
+    height: 80px;
+    width: 100px;
+    display: block;
+    Other styles here
+}
+ */
 @
 -webkit-keyframes up { 0% {
 	top: 0px;
