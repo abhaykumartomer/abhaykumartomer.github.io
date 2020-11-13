@@ -1,3 +1,3 @@
-![counter](https://github.com/abhaykumartomer/abhaykumartomer.github.io/README.md)
+![counter](https://github.com/abhaykumartomer)
 
 Hello, I'm Abhay.
