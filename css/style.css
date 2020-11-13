@@ -30,7 +30,7 @@ i {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	padding: 40px;
+	padding: 20px;
 	text-align: center;
 	font-weight: bold;
 }
@@ -47,9 +47,9 @@ i {
 .header .port {
 	border-radius: 50%;
 	border: 3px navy double;
-	margin-top: 20px;
+	margin-top: 10px;
 	/*   #ccc groove; */
-	width: 35%;
+	width: 30%;
 }
 
 .icon-row {
@@ -134,6 +134,36 @@ i {
 	background-size: cover;
 	background-position: 50% 50%;
 }
+
+
+.im img {
+  transform-origin: 50% 1%;
+  transition: transform 1s, filter .5s ease-out;
+}
+
+.im:hover img {
+  transform: scale(1.8);
+}
+
+
+/* [1] The container
+.fixed-content {
+  height: 300px; [1.1] Set it as per your need
+  overflow: hidden; [1.2] Hide the overflowing of child elements
+}
+
+[2] Transition property for smooth transformation of images
+.fixed-content img {
+  transition: transform .5s ease;
+}
+
+[3] Finally, transforming the image when container gets hovered
+.fixed-content:hover img {
+  transform: scale(1.5);
+}
+ */
+
+
 /*  .ic {
     background: url('../img/profile.jpg');
 }
@@ -146,6 +176,7 @@ i {
     Other styles here
 }
  */
+
 @
 -webkit-keyframes up { 0% {
 	top: 0px;
