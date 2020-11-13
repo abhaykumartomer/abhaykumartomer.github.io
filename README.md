@@ -1,3 +1,4 @@
-![counter](https://github.com/abhaykumartomer)
+
+!aktomer(https://rushter.com/counter.svg)
 
 Hello, I'm Abhay.
