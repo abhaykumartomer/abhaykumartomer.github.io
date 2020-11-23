@@ -2,7 +2,7 @@
   [![](http://hits.dwyl.com/abhaykumartomer/abhaysingh.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
 )
 
-  [![](http://hits.dwyl.com/abhaykumartomer/abhaysingh.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
+  [![](http://hits.dwyl.com/abhaykumartomer/abhaysingh.svg)](http://hits.dwyl.com/github.com/abhaykumartomer/abhaykumartomer.github.io)
 
 <div align="center">
   <!-- Downloads -->
