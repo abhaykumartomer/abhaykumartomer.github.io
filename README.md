@@ -1,4 +1,4 @@
-
+<div align="center">
 []( 
   [![](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
 )
@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
       alt="Downloads" />
   </a>
-
+</div>
 Hello, I'm Abhay.
 
