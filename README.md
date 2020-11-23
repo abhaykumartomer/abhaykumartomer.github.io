@@ -2,11 +2,10 @@
   [![](http://hits.dwyl.com/abhaykumartomer/abhaysingh.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
 )
 []( 
-./gdc github-username github-projectname
   [![](http://hits.dwyl.com/abhaykumartomer/abhaysingh.svg)](http://hits.dwyl.com/github.com/abhaykumartomer/abhaykumartomer.github.io)
 )
 
-./gdc abhaykumartomer github-abhaykumartomer.github.io
+./gdc abhaykumartomer
 
 <div align="center">
   <!-- Downloads -->
