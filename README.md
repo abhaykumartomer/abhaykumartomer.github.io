@@ -1,7 +1,7 @@
-<div align="center">
 []( 
   [![](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
 )
+<div align="center">
 [![](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io.svg)](http://hits.dwyl.com/abhaykumartomer/abhaykumartomer.github.io)
 
   <!-- Downloads -->
