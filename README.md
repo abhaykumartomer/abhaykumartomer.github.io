@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- Downloads -->
-  <a href="https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf">
+  <a href="https://tomerabhay.github.io/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf">
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
       alt="Downloads" />-->
   </a>
