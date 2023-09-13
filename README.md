@@ -7,14 +7,15 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square" align="center" />
 </div>
-
+<br/>
 <div align="center">
   <!-- Downloads -->
   <a href="https://tomerabhay.github.io/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf">
-    <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
-      alt="Downloads" />-->
+    <img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg"
+      alt="Downloads" />
   </a>
-  [Download PDF resume](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)
+    <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
+  <!--[Download PDF resume](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
 </div>
 
 <details>
