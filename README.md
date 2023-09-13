@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thanks+for+visiting" />
 </p>
-
+<p align="center">
 Hello, I'm Abhay.
+</p>
 
 <div align="center">
 <a href="https://github.com/abhaykumartomar" target="_blank">
