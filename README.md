@@ -10,12 +10,12 @@
 
 <div align="center">
   <!-- Downloads -->
-  <a href="https://www.npmjs.com/package/abhaykumartomer.github.io">
-    <img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
-      alt="Downloads" />
+  <a href="https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf">
+    <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
+      alt="Downloads" />-->
   </a>
+  [Download PDF resume](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)
 </div>
-
 
 <details>
     <summary><b>click here for more details 😝</b></summary><br/>
