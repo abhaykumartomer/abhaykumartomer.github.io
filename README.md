@@ -11,8 +11,8 @@
 <div align="center">
   <!-- Downloads -->
   <a href="https://tomerabhay.github.io/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf">
-    <img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg"
-      alt="Downloads" />
+    <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
+    [Download PDF resume_Abhay Kumar 4.5 YOE]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
   <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
