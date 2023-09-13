@@ -15,13 +15,11 @@
       alt="Downloads" />
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
-  <!--[Download PDF resume](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
+  <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
 </div>
 
 <details>
     <summary><b>click here for more details 😝</b></summary><br/>
-    [Abhay Kumar 4.5 YOE](https://github.com/tomerabhay/tomerabhay.github.io/blob/main/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf)
-
 
 <div align="center">
 <a href="https://github.com/abhaykumartomar" target="_blank">
