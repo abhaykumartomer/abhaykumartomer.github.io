@@ -56,12 +56,14 @@
             </a></div>
 <br />
 
-
+<!---
 <div align="center">
-  <!-- Downloads -->
+  <!-- Downloads 
   <a href="https://www.npmjs.com/package/abhaykumartomer.github.io">
     <img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
       alt="Downloads" />
   </a>
 </div>
+--->
+
 </details>
