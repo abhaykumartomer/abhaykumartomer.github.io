@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thanks+for+visiting" />
-</br>
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BDA7&center=true&vCenter=true&lines=Hello+I+am+Abhay" />
 </p>
 
