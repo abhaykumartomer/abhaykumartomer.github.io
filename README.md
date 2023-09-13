@@ -5,6 +5,24 @@
 </p>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square" align="center" />
+</div>
+
+<div align="center">
+  <!-- Downloads -->
+  <a href="https://www.npmjs.com/package/abhaykumartomer.github.io">
+    <img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
+      alt="Downloads" />
+  </a>
+</div>
+
+
+<details>
+    <summary><b>click here for more details 😝</b></summary><br/>
+    [Abhay Kumar 4.5 YOE](https://github.com/tomerabhay/tomerabhay.github.io/blob/main/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf)
+
+
+<div align="center">
 <a href="https://github.com/abhaykumartomar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -27,10 +45,6 @@
 
 
 <br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square" align="center" />
-</div>
-
 
 <br/>
 
@@ -51,4 +65,4 @@
       alt="Downloads" />
   </a>
 </div>
-
+</details>
