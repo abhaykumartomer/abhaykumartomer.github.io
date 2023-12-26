@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
   <!-- Downloads -->
-  <a href="https://abhaykumartomer.github.io/Resume/Resume%20Abhay%20Kumar.pdf">
+  <a href="https://tomerabhay.github.io/Resume/Resume%20Abhay%20Kumar.pdf">
     <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
     [Download PDF resume_Abhay Kumar 4.5 YOE]
   </a>
