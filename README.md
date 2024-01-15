@@ -10,9 +10,9 @@
 <br/>
 <div align="center">
   <!-- Downloads -->
-  <a href="https://tomerabhay.github.io/Resume/Resume%20Abhay%20Kumar.pdf">
+  <a href="https://telegram.me/abhay_kumar_tomer">
     <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
-    [Download PDF resume_Abhay Kumar 4.5 YOE]
+    [Mob. 9458772187]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
   <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
