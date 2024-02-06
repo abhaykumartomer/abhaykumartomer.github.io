@@ -6,10 +6,13 @@
 <title>Technical Expert(AKT)</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- ==========================================Resources Files Info=====================================================  -->
 <link rel="shortcut icon"
 	href="https://img.icons8.com/color/48/000000/hearts.png"
 	type="image/x-icon" />
 
+<!-- ==========================================CSS Files Info=====================================================  -->
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
 	integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
@@ -30,29 +33,155 @@
 <link rel="stylesheet" href="css/flexslider.css">
 <link rel="stylesheet" href="css/services.css">
 
-<script
-	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-<script
-	src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<!-- My - PanoImage -->
+<link rel="stylesheet" href="pannellum.css" />
+<style>
+#panorama {
+	width: 100vw;
+	height: 100vh;
+	transform: translate(-50%, 0%);
+	left: 50%;
+}
 
+
+body {
+	background-color: rgb(220, 238, 245);
+}
+</style>
+
+<!-- ==========================================JS Files Info=====================================================  -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+	
+	<!-- particleSystem - FireCursor -->
+	<!-- 
+ 	<script src="https://anuraghazra.github.io/Candy.js/dist/Candy.build.js"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.3/dat.gui.min.js"></script>  
+ 	 -->
+
+<!-- My - PanoImage -->
+<script type="text/javascript" src="pannellum.js"></script>
 
 </head>
 
 <body>
 
+
+	<div class="landingPage section" id="landingPage-js">
+		<div>
+			<div class="fixed-content">
+
+				<span id="wizard">‍</span>
+				<div class="image-container">
+					<img class="hidden" src="images/profile/profile.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile1.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile2.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile3.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile4.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile5.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile6.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile7.webp"
+						alt="A photo of a person without hair."> <img class="hidden"
+						src="images/profile/profile8.webp"
+						alt="A photo of a person without hair.">
+				</div>
+
+				<button class="active" id="showShort" type="button" hidden>Home</button>
+				<button id="showLong" type="button" hidden>Long</button>
+				<button id="showBlog" type="button" hidden>Blog</button>
+				<button id="showContact" type="button" hidden>Contact</button>
+
+
+				<h1 class="profile-card__name lol">
+					<!-- style="color: lightblack; font-family: cursive; font-weight: bold;">  -->
+					<h4><a href="index.html" >Abhay</a> <a
+						href='#touchme'>Tomar</a></h4>
+				</h1>
+				<p
+					style="color: green; font-size: 25px; font-style: italic; font-weight: bolder; font-family: serif;">
+					Microsoft Certified<br>Dynamics 365 F&O Technical Consultant |
+					Accenture Solution Pvt. Ltd.
+				</p>
+				<div class="icon-row">
+					<a
+						href="https://github.com/techiesgenius/abhaykumartomar.github.io"><i
+						class="fa fa-github"></i></a> <a
+						href="https://medium.com/@abhaykumartomer"><i
+						class="fa fa-medium"></i></a> <a
+						href="https://stackoverflow.com/users/14519404/abhay-tomer"><i
+						class="fa fa-stack-overflow"></i></a><a
+						href="https://dev.to/abhaykumartomer" target="popup"><i
+						class="fa fa-code"></i></a> <a href="#touchme"><i
+						class="fa fa-phone"></i></a> <a href="img/Resume Abhay Kumar.pdf"
+						target="popup"><i class="fa fa-download"></i></a>
+				</div>
+				<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=https://abhaykumartomer.github.io/index.html" align="Right"> -->
+
+
+				<!--hero dec-->
+
+				<div class="hero-decor-letm">
+					<span><a href="https://wa.link/rm4d62" target="_blank"
+						class="hero-decor-numb-tooltip">Hello, I am Abhay</a> </span>
+				</div>
+
+				<div class="hero-decor-let">
+					<span><a
+						href="https://www.google.com/maps/place/Noida,+Uttar+Pradesh/@28.5222018,77.4018255,12z/data=!3m1!4b1!4m6!3m5!1s0x390ce5a43173357b:0x37ffce30c87cc03f!8m2!3d28.5355161!4d77.3910265!16zL20vMDN3dHow?entry=ttu"
+						target="_blank" class="hero-decor-numb-tooltip">Noida, Uttar
+							Pradesh</a> </span>
+				</div>
+
+				<!--hero dec end-->
+			</div>
+		</div>
+	</div>
+	</div>
+
+	<!-- ==========================================Header Part=====================================================  -->
+	<!-- 
 	<div class="landingPage section" id="landingPage-js">
 		<div class="header" id="aboutPage-js">
-			<!--<img src="https://visitor-badge.glitch.me/badge?page_id=https://abhaykumartomer.github.io" align="Right" >-->
+			<img src="https://visitor-badge.glitch.me/badge?page_id=https://abhaykumartomer.github.io" align="Right" >
 			<img
 				src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square"
 				align="Right" />
-			<div>
+			<SECTION>
 				<div class="fixed-content">
+					
 					<p class="im">
 						<img class="port" src="img/profile.jpg">
 					</p>
+					<div>
+			            <span id="wizard">‍</span>                   
+			            <div class="image-container">
+			                <img class="hidden" src="images/profile/profile.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile1.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile2.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile3.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile4.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile5.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile6.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile7.webp" alt="A photo of a person without hair.">
+			                <img class="hidden" src="images/profile/profile8.webp" alt="A photo of a person without hair.">
+			            </div>
+			       
+			            <button class="active" id="showShort">Short</button>
+			            <button id="showLong">Long</button>
+			            <button id="showBlog">Blog</button>
+			            <button id="showContact">Contact</button>
+			        </div>   
+				</SECTION>
+
 					<h1 class="profile-card__name lol">
-						<!-- style="color: lightblack; font-family: cursive; font-weight: bold;">  -->
+						style="color: lightblack; font-family: cursive; font-weight: bold;"> 
 						<a href="index.html" style="color: blue;">Abhay</a> <a
 							href='#touchme'>Tomar</a>
 					</h1>
@@ -74,10 +203,10 @@
 							class="fa fa-phone"></i></a> <a href="img/Resume Abhay Kumar.pdf"
 							target="popup"><i class="fa fa-download"></i></a>
 					</div>
-					<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=https://abhaykumartomer.github.io/index.html" align="Right"> -->
+					<img src="https://visitor-badge.glitch.me/badge?page_id=https://abhaykumartomer.github.io/index.html" align="Right">
 
 
-					<!--hero dec-->
+					hero dec
 					<div class="hero-decor-letm">
 						<span><a href="https://wa.link/rm4d62" target="_blank"
 							class="hero-decor-numb-tooltip">Hello, I am Abhay</a> </span>
@@ -89,11 +218,14 @@
 								Pradesh</a> </span>
 					</div>
 				</div>
-				<!--hero dec end-->
+				hero dec end
 
 			</div>
 		</div>
-	</div>
+	</div> -->
+
+	<!-- ==========================================Header Part End=====================================================  -->
+
 	</div>
 	<div class="second">
 		<div class="fixed-content">
@@ -608,6 +740,55 @@
 				onclick="window.scroll({  top: 0,  left: 0,  behavior: 'smooth'});"></i>
 		</div>
 	</div>
+	<!-- My - PanoImage -->
+ 	<div id="panorama"></div>
+	
+
+	<!-- ==========================================After Contact Info=====================================================  -->
+
+<!-- 	<div id="viewer"></div>
+
+	<style>
+	/* the viewer container must have a defined size */
+	#viewer {
+		width: 100vw;
+		height: 50vh;
+	}
+	</style> -->
+	
+		<!-- <script>
+	  var viewer = new PhotoSphereViewer.Viewer({
+	    container: document.querySelector('#viewer'),
+	    panorama: 'alma.jpg'
+	  });
+	</script>
+	 -->
+		<!--
+	<iframe width="100%"
+	    height="300px"
+	    allowfullscreen
+	    frameborder="0"
+	    src="https://goo.gl/maps/PgK16bswUq5oFmy67">
+	</iframe>
+	 -->
+		<!--
+		<script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
+		<div id="myEmbeddedScene">
+		<a-scene embedded>
+		<a-sky src="https://goo.gl/maps/PgK16bswUq5oFmy67" rotation="0 -85 0"/>
+		</a-scene>
+	 -->
+
+	<!--  <iframe src="https://www.google.com/maps/embed?pb=!4v1606152063098!6m8!1m7!1sCAoSLEFGMVFpcE5STmx3c1JhY3ZqZXNNalFVUDE1cG1FenlMSDlVZXFyOEFVRzJH!2m2!1d28.6560017!2d77.6801776!3f0!4f0!5f0.7820865974627469" width="1366" height="768" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"/> -->
+	
+	<!-- ==========================================End After Contact Info=====================================================  -->
+
+	<!-- ==========================================JS/CSS Files Info=====================================================  -->
+	<!-- 
+	<script >
+	alert('Thanks for visit!');
+	</script>
+ 	-->
 
 	<script
 		src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -634,6 +815,8 @@
 	<script src="js/script.js"></script>
 	<script src="js/particles.js" type="text/javascript"></script>
 
+	<script src="functions.js"></script>
+	<script src="sparticles.min.js"></script>
 
 	<link rel="stylesheet"
 		href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/photo-sphere-viewer.min.css" />
@@ -642,44 +825,49 @@
 	<script src="https://cdn.jsdelivr.net/npm/uevent@2/browser.min.js"></script>
 	<script
 		src="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/photo-sphere-viewer.min.js"></script>
-	<!-- <script >
-	alert('Thanks for visit!');
-</script>
- -->
-	<div id="viewer"></div>
+ 
+ 	<!-- particleSystem - FireCursor-->
+ 	<!-- 
+ 	<script src="../src/lib/Vector.js"></script>
+	<script src="./js/particle.js"></script>
+	<script src="./js/particleSystem.js"></script>
+	<script src="./js/index.js"></script>
+ 	 -->
+ 	 
+ 	 <!-- My - PanoImage -->
+ 	 <script>
+		pannellum.viewer('panorama', {
+			"type" : "equirectangular",
+			"panorama" : "https://i.imgur.com/k9EXJph.jpeg"
+		});
+		function externalLinks() {
+			for (var c = document.getElementsByTagName("a"), a = 0; a < c.length; a++) {
+				var b = c[a];
+				b.getAttribute("href") && b.hostname !== location.hostname
+						&& (b.target = "_blank")
+			}
+		};
+		externalLinks();
+	</script>
+	
+	<!-- My - NameTranslate -->
+	<script>
+	const title = document.querySelector('h4');
+	let names = ['I am Abhay', 'Je m’appelle Abhay', '我是阿拜', 'मैं अभय हूँ', '私はアバイ', 'Nazywam się Abhay', 'ਮੈਂ ਅਭੈ ਹਾਂ', 'Меня зовут Абхай'];
+	let index = 0;
+	
+	setInterval(() => {
+		if (index > names.length - 1) {
+			index = 0;
+		}
+		title.textContent = names[index];
+		// console.log(index);
+		index++;
+	}, 1000);
+	</script>
+	<!-- ==========================================End JS/CSS Files Info=====================================================  -->
 
-	<style>
-/* the viewer container must have a defined size */
-#viewer {
-	width: 100vw;
-	height: 50vh;
-}
-</style>
 
-	<!-- <script>
-  var viewer = new PhotoSphereViewer.Viewer({
-    container: document.querySelector('#viewer'),
-    panorama: 'alma.jpg'
-  });
-</script>
- -->
-	<!--
-<iframe width="100%"
-    height="300px"
-    allowfullscreen
-    frameborder="0"
-    src="https://goo.gl/maps/PgK16bswUq5oFmy67">
-</iframe>
- -->
-	<!--
-	<script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
-	<div id="myEmbeddedScene">
-	<a-scene embedded>
-	<a-sky src="https://goo.gl/maps/PgK16bswUq5oFmy67" rotation="0 -85 0"/>
-	</a-scene>
- -->
-
-	<!--  <iframe src="https://www.google.com/maps/embed?pb=!4v1606152063098!6m8!1m7!1sCAoSLEFGMVFpcE5STmx3c1JhY3ZqZXNNalFVUDE1cG1FenlMSDlVZXFyOEFVRzJH!2m2!1d28.6560017!2d77.6801776!3f0!4f0!5f0.7820865974627469" width="1366" height="768" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"/> -->
 </body>
 
 </html>

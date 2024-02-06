@@ -394,70 +394,7 @@ i {
 
 /*------Image section end----------------------------------------------*/
 
-/*------Start Name Style ----------------------------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 
-
-body main {
-    display: flex;
-    height: 100vh;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: pink;
-}
-
-h4 {
-    padding: 0 10px;
-    text-align: center;
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: white;
-    animation: glitch 3s 0s infinite alternate;
-    margin: 50px 0;
-    transition: 0.2s;
-}
-
-h4:hover {
-    transform: scale(1.05);
-}
-
-
-@keyframes glitch {
-    0% {
-        color: blue;
-    }
-
-    10% {
-        color: black;
-    }
-
-    25% {
-        color: purple;
-    }
-
-    35% {
-        color: black;
-    }
-
-    50% {
-        color: brown;
-    }
-    
-    75% {
-        color: red;
-    }
-
-    100% {
-        color: pink;
-    }
-}
-
-@media screen and (max-width: 700px) {
-    
-}
-
-/*------End Name Style ------------------------------------------------*/
 /* [1] The container
 .fixed-content {
   height: 300px; [1.1] Set it as per your need
