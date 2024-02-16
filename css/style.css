@@ -161,8 +161,9 @@ i {
 	padding: 0;
 }
 #landingPage-js {
-	background-image: linear-gradient(to bottom, #A1FFCE, #FAFFD1);
+	/* background-image: linear-gradient(to bottom, #A1FFCE, #FAFFD1); */
 	/* background-image: linear-gradient(to bottom, #2980B9, #6DD5FA, #FFFFFF); */
+	background-image: linear-gradient(to bottom,  #1e90ff, #87ceeb, #FFFFFF); 
 	background-repeat: repeat;
 	background-size: cover;
 	background-position: 50% 50%;
@@ -363,13 +364,16 @@ i {
 /*------Image section ------------------------------------------------*/
 
 .image-container img {
-    width: 320px;
-    height: 320px;
-    clip-path: circle();
+    width: 300px;
+    height: 400px;
+    /* clip-path: circle();*/
     object-fit: cover;
-    animation: fadeIn 1s;
+    animation: fadeIn 2s;
   	transform-origin: 50% 1%;
   	transition: transform 1s, filter .5s ease-out;
+  	border-radius: 50%;
+	border: 3px navy double;
+	
 }
 
 .image-container:hover img {
@@ -458,6 +462,89 @@ h4:hover {
 }
 
 /*------End Name Style ------------------------------------------------*/
+
+
+/* Start Line Right */
+/* 
+#container--main{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.section--page{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+ 
+ 
+.copy-box 
+{
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  background-color: #111111;
+  color: #333333;
+  font-family: sans-serif;
+  padding: 20px;
+} 
+.copy-box .line
+{
+  position: absolute;
+  background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+  -webkit-box-shadow: 0px 0px 12px ;
+  box-shadow: 0px 0px 12px ;
+  width: 4px;
+  height: calc(100% - 20px);
+  top: 10px;
+  left: 22px;
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-animation: hue 30s infinite linear;
+}
+
+.copy-box .line .scanner 
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: white;
+  width: 100%;
+  height: 20px;
+  border-radius: 50%;
+  animation: scanner-loop 3s ease-in-out infinite;
+}
+
+.scanner
+{
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+  height: 50%;
+}
+@keyframes scanner-loop
+{
+  0% 
+  {
+    top: 0;
+  }
+  50%
+  {
+    top: 100%;
+  }
+  100%
+  {
+    top: 0;
+  }
+}
+
+.inner 
+{
+  padding: 30px;
+} 
+ */
+/* End Line Right */
+
+
+
 /* [1] The container
 .fixed-content {
   height: 300px; [1.1] Set it as per your need

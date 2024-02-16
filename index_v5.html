@@ -36,8 +36,25 @@
 
 <!-- My - YoutubeVideo:All New Added -->
 <link rel="stylesheet" href="CSS/FontAwesome/stylesheetMe.css" />
+<link rel="stylesheet" href="CSS/bootstrap.min.css" />
 <link rel="stylesheet" href="CSS/indexMe.css?4" />
 
+
+<!-- My - PanoImage -->
+<link rel="stylesheet" href="pannellum.css" />
+<style>
+#panorama {
+	width: 100vw;
+	height: 100vh;
+	transform: translate(-50%, 0%);
+	left: 50%;
+}
+
+
+body {
+	background-color: rgb(220, 238, 245);
+}
+</style>
 
 <!-- ==========================================JS Files Info=====================================================  -->
 
@@ -66,13 +83,16 @@
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.3/dat.gui.min.js"></script>  
  	 -->
 
+<!-- My - PanoImage -->
+<script type="text/javascript" src="pannellum.js"></script>
+
 </head>
 
 <body>
 
 
 	<div class="landingPage section" id="landingPage-js">
-		<div id="aboutPage-js">
+		<div>
 			<div class="fixed-content">
 
 				<span id="wizard">‍</span>
@@ -874,11 +894,27 @@
 	<script src="./js/particleSystem.js"></script>
 	<script src="./js/index.js"></script>
  	 -->
+ 	 
+ 	 <!-- My - PanoImage -->
+ 	 <script>
+		pannellum.viewer('panorama', {
+			"type" : "equirectangular",
+			"panorama" : "https://i.imgur.com/k9EXJph.jpeg"
+		});
+		function externalLinks() {
+			for (var c = document.getElementsByTagName("a"), a = 0; a < c.length; a++) {
+				var b = c[a];
+				b.getAttribute("href") && b.hostname !== location.hostname
+						&& (b.target = "_blank")
+			}
+		};
+		externalLinks();
+	</script>
 	
 	<!-- My - NameTranslate -->
 	<script>
 	const title = document.querySelector('h4');
-	let names = ['I am Abhay', 'मैं अभय हूँ', 'ਮੈਂ ਅਭੈ ਹਾਂ', 'Nazywam się Abhay', '私はアバイ', 'Je m’appelle Abhay', '我是阿拜', 'Меня зовут Абхай'];
+	let names = ['I am Abhay', 'Je m’appelle Abhay', '我是阿拜', 'मैं अभय हूँ', '私はアバイ', 'Nazywam się Abhay', 'ਮੈਂ ਅਭੈ ਹਾਂ', 'Меня зовут Абхай'];
 	let index = 0;
 	
 	setInterval(() => {
@@ -902,7 +938,7 @@
 	<!-- ==========================================End JS/CSS Files Info=====================================================  -->
 
 	<div>
-	<iframe src="https://www.google.com/maps/embed?pb=!4v1707439501692!6m8!1m7!1sCAoSLEFGMVFpcE5PSW80MTJrOG9CT0tPSEQ0d3JxeGJtZ1EySk43eGhFVVI2SkVD!2m2!1d28.6153363!2d77.7441186!3f6.81937608214173!4f-14.388576791324851!5f0.7820865974627469" width="1472" height="760" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!4v1707439501692!6m8!1m7!1sCAoSLEFGMVFpcE5PSW80MTJrOG9CT0tPSEQ0d3JxeGJtZ1EySk43eGhFVVI2SkVD!2m2!1d28.6153363!2d77.7441186!3f6.81937608214173!4f-14.388576791324851!5f0.7820865974627469" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
 </body>
 

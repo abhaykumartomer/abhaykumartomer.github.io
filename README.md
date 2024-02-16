@@ -1,25 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thanks+for+visiting" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BDA7&center=true&vCenter=true&lines=Hello+I+am+Abhay" />
-</p>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square" align="center" />
-</div>
-<br/>
-<div align="center">
-  <!-- Downloads -->
-  <a href="https://telegram.me/abhay_kumar_tomer">
-    <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
-    [Mob. 9458772187]
-  </a>
-    <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
-  <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
-</div>
-
-<details>
-    <summary><b>click here for more details 😝</b></summary><br/>
+Hello, I'm Abhay.
 
 <div align="center">
 <a href="https://github.com/abhaykumartomar" target="_blank">
@@ -44,6 +23,10 @@
 
 
 <br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abhaykumartomer&&style=flat-square" align="center" />
+</div>
+
 
 <br/>
 
@@ -56,14 +39,12 @@
             </a></div>
 <br />
 
-<!---
+
 <div align="center">
-  <!-- Downloads 
+  <!-- Downloads -->
   <a href="https://www.npmjs.com/package/abhaykumartomer.github.io">
     <img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"
       alt="Downloads" />
   </a>
 </div>
---->
 
-</details>
