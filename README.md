@@ -13,7 +13,7 @@
   <!-- <a href="https://abhaykumartomer.github.io/Resume/Resume%20Abhay%20Kumar.pdf"> -->
   <a href="https://abhaykumartomar.vercel.app/img/Resume%20Abhay%20Kumar.pdf">
     <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
-    [Download PDF resume_Abhay Kumar]
+    [Download PDF resume_Abhay Kumar 4.5 YOE]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
     
@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-            <a href="https://buymeacoffee.com/abhaytomar" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/abhaykumartomer" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
                     align="center"
