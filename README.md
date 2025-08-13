@@ -14,7 +14,7 @@
   <!-- <a href="https://abhaykumartomar.vercel.app/img/Resume%20Abhay%20Kumar.pdf"> -->
     <a href="https://tomerabhay.netlify.app/res/Resume%20Abhay%20Kumar.pdf">
     <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
-    [Download PDF resume_Abhay Kumar 4.5 YOE]
+    [Download PDF resume_Abhay Kumar 7.5+ YOE]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
     
